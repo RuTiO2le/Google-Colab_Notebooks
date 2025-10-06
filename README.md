@@ -47,6 +47,7 @@ A Collection of Google Colab Notebooks for scripts & projects
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Isi-dev/Google-Colab_Notebooks/blob/main/wan_2_1/wan21_based_InfiniteTalk_&_MultiTalk.ipynb)  | Audio-driven Animation with InfiniteTalk & MultiTalk (Compute units Required)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Isi-dev/Google-Colab_Notebooks/blob/main/Qwen_Image/Qwen_Image_Gen_Edit.ipynb)  | Qwen-Image for Generating & Editing Images 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Isi-dev/Google-Colab_Notebooks/blob/main/Qwen_Image/Qwen_Image_Edit_Plus.ipynb)  | Qwen-Image-Edit 2509 for 1-3 Images to 1 Image
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Isi-dev/Google-Colab_Notebooks/blob/main/flux/Flux1_Kontext_Dev_with_Mask_Editor_for_Inpainting.ipynb)  | Flux1 Kontext Dev with Mask Editor for Inpainting
 
 
 
